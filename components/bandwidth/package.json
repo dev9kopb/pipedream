@@ -10,6 +10,6 @@
   "author": "Bandwidth",
   "license": "MIT",
   "dependencies": {
-    "@bandwidth/messaging": "^4.0.0"
+    "@bandwidth/messaging": "^4.1.3"
   }
 }
