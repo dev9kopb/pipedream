@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "graphql": "^16.2.0",
-    "graphql-request": "^3.7.0"
+    "graphql-request": "^4.2.0"
   }
 }
